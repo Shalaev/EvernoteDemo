@@ -1,0 +1,57 @@
+.l-wrapper {
+    width: 400px;
+    margin: 25px auto;
+}
+.b-form {
+    border: 1px solid;
+    padding: 10px;
+}
+.b-form__title {
+    text-align: center;
+    margin: 5px 0;
+}
+.b-form__table {
+    width: 380px;
+    border-spacing: 0;
+}
+.b-form__row {
+    margin: 0;
+    padding: 0;
+}
+.b-form__column {
+    margin: 0;
+    box-sizing: content-box;
+    width: 100%;
+    height: 100%;
+}
+.b-form__input {
+    height: 20px;
+    width: 270px;
+    line-height: 20px;
+    font-size: 20px;
+}
+.b-form__button {
+    width: 80px;
+    height: 26px;
+    padding: 2px 5px;
+}
+.b-form__mode_control {
+    padding: 10px 0 0 0;
+}
+.b-form__mode_note {
+    padding: 5px 5px;
+    border-bottom: 1px solid;
+}
+.b-form__notetext {
+    font-size: 18px;
+}
+.l-center{
+    text-align: center;
+}
+.b-form__status_done {
+    text-decoration: line-through;
+}
+
+.b-form__button_select_short {
+    border: 2px solid green;
+}
